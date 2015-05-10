@@ -17,8 +17,8 @@ public class ServerInfo {
 		ckanURL = "http://data.deepcarbon.net/ckan";
 		dcoOntoNameSpace = "http://info.deepcarbon.net/schema#";
 		dcoNamespace = "http://info.deepcarbon.net";
-		rootName = "cheny18@rpi.edu";
-		rootPassword = "twc123";
+		rootName = "XXXXX";
+		rootPassword = "XXXX";
 		
 	}
 	
